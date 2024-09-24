@@ -65,6 +65,10 @@ set ignorecase smartcase
 
 set easymotion
 
+" 去掉提示音
+set noerrorbells
+set visualbell
+
 " Insert
 inoremap jk <Esc>
 " Normal
